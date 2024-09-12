@@ -3,3 +3,5 @@ quarto render
 git add docs
 git commit -m "Publish book to books/"
 git push
+
+
